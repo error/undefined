@@ -1,4 +1,5 @@
-#This is us trying to break simple text/low-level repo parts of Github (and obviously report our findings to them) - help us & GitHub by submitting a PR!
+/*This is us trying to break simple text/low-level repo parts of Github (and obviously report our findings to them)
+   - help us & GitHub by submitting a PR!*/
 
 package main
 
